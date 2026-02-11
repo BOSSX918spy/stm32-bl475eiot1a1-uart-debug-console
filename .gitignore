@@ -1,0 +1,35 @@
+# =========================
+# Build artifacts
+# =========================
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.o
+*.d
+
+# =========================
+# STM32CubeIDE / Eclipse
+# =========================
+.settings/
+.metadata/
+.project
+.cproject
+*.launch
+.mxproject
+.osx.project
+
+# =========================
+# OS-specific
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editors
+# =========================
+.vscode/
+.idea/
